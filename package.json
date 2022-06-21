@@ -1,0 +1,23 @@
+{
+  "name": "api-nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitamindev100/api-nodemailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitamindev100/api-nodemailer/issues"
+  },
+  "homepage": "https://github.com/vitamindev100/api-nodemailer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3"
+  }
+}
